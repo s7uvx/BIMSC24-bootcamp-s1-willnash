@@ -2,4 +2,4 @@
 
 # INTRODUCTION
 
-This is the test repository for the IAAC MaCAD BIMSC24 bootcamp.
+This is the practice repository for the IAAC MaCAD BIMSC24 bootcamp.

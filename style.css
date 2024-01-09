@@ -1,0 +1,48 @@
+.mainText {
+    color: red;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+  }
+
+.flex-container {
+    display: flex;
+    background-color: red;
+}
+div {
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+#nav-bar {
+    width: 7%;
+    font-family: "Times New Roman", Times, serif;
+    /* contain: strict; */
+    vertical-align: auto;
+    background-color: aqua;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+
+    }
+
+#sidebar {
+
+    color: blue;
+    position: fixed !important;
+    z-index: 1;
+    padding: 5px;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    overflow: auto;
+    overflow-x: auto;
+    overflow-y: auto;
+
+    }
+
+#main {
+    color: red;
+    z-index: 2;
+    margin-left: 200px;
+}
